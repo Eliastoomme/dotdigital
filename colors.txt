@@ -1,0 +1,1 @@
+main background-color: #ed1c24
